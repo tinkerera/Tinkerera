@@ -1,67 +1,70 @@
-# 👋 Hi, I'm **Adem Yıldırım**
+# Hi, I'm Adem Yildirim 👋
 
-🎓 **Mathematical Engineering Student** @ Yıldız Technical University  
-💼 **Part-Time Data Scientist** @ Siemens  
-📍 Based in **Türkiye**
+Cloud-native and DevOps-focused engineer with a strong foundation in distributed systems and backend development.
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I'm a passionate engineer specializing in **AI**, **machine learning**, and **cloud-native backend systems**.  
-I love transforming data into actionable solutions and building intelligent, scalable products.
+- 🎓 I'm currently a Mathematical Engineering student at Yildiz Technical University (Graduation: 2026), blending mathematical modeling with computing fundamentals.
 
-> **Mission:** Bridging AI with real-world applications using clean code, smart architecture, and the power of the cloud.
+- 💼 Working part-time as a Cloud & DevOps Engineer at **Siemens**, where I design and manage production-ready infrastructure on AWS using **Terraform**, **CloudFormation**, **Docker**, and **ECS**.
+
+- 🔧 Previously contributed to backend and DevOps projects, focusing on:
+  - Containerized service development with **FastAPI**, **PostgreSQL**, and **Docker**
+  - CI/CD automation using **GitHub Actions**
+  - Infrastructure reproducibility and system observability
+
+- ☁️ I’m passionate about building **fault-tolerant, scalable systems** and implementing **Infrastructure as Code (IaC)**. I enjoy working with tools that automate system provisioning, delivery, and monitoring pipelines.
+
+- 🛠 I’m particularly interested in:
+  - **Distributed Systems** and service orchestration
+  - **Cloud-native architectures** using **ECS**, **Lambda**, **Bedrock**, and event-driven patterns
+  - **Site Reliability Engineering (SRE)** practices like alerting, autoscaling, and system health monitoring
+  - **DevOps pipelines** for microservices at scale
+
+- 🧪 Actively experimenting with:
+  - **Go** for high-performance backend tools
+  - **Serverless architectures** for cost-efficient, elastic services
+  - **GitOps** and immutable deployment strategies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages  
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30"/>
+**Languages**  
+`Python` `Go` `C/C++` `Bash` `SQL`
 
-### 🤖 AI / Data Science  
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="30"/>
+**Cloud & Services**  
+`AWS (EC2, ECS, Lambda, S3, IAM, CloudWatch, Bedrock)`  
+`Azure (Basic Experience)`
 
-### ☁️ Cloud & DevOps  
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30"/>
+**Infrastructure as Code & Containers**  
+`Terraform` `AWS CloudFormation` `Docker` `ECS` `ECR`
 
-### 🧰 Backend & APIs  
-<img src="https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge" height="30"/>
+**CI/CD & Automation**  
+`GitHub Actions` `GitLab CI` `Containerized Workflows` `Automated Infra Provisioning`
 
-### 🧪 ML Ops / Experiment Tracking  
-<img src="https://img.shields.io/badge/-MLflow-0064A5?logo=mlflow&logoColor=white&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?logo=wandb&logoColor=black&style=for-the-badge" height="30"/>
-<img src="https://img.shields.io/badge/-SageMaker-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" height="30"/>
+**Monitoring & Observability**  
+`AWS CloudWatch` `Structured Logging` `Basic SRE Practices`
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinkerera&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tinkerera&theme=radical" width="48%"/>
-</p>
+> 🚧 Work in progress: I'm currently cleaning up and documenting personal projects around:
+> - Scalable backend services with FastAPI & Go
+> - Infrastructure automation with Terraform
+> - GitOps pipelines and serverless deployment prototypes
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ademyildirim/)
-- 📧 [Email](mailto:ademyildirimv@gmail.com)
+- 📧 Email: [ademyildirimv@gmail.com](mailto:ademyildirimv@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/ademyildirm](https://linkedin.com/in/ademyildirm)  
+- 💻 GitHub: [github.com/Tinkerera](https://github.com/Tinkerera)
+
+---
+
+_Thanks for visiting — always happy to collaborate on infrastructure, backend, or DevOps-focused projects!_
