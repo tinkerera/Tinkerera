@@ -1,70 +1,34 @@
-# Hi, I'm Adem Yildirim 👋
+# Hey there, I'm Adem 👋
 
-Cloud-native and DevOps-focused engineer with a strong foundation in distributed systems and backend development.
-
----
-
-## 🚀 About Me
-
-- 🎓 I'm currently a Mathematical Engineering student at Yildiz Technical University (Graduation: 2026), blending mathematical modeling with computing fundamentals.
-
-- 💼 Working part-time as a Cloud & DevOps Engineer at **Siemens**, where I design and manage production-ready infrastructure on AWS using **Terraform**, **CloudFormation**, **Docker**, and **ECS**.
-
-- 🔧 Previously contributed to backend and DevOps projects, focusing on:
-  - Containerized service development with **FastAPI**, **PostgreSQL**, and **Docker**
-  - CI/CD automation using **GitHub Actions**
-  - Infrastructure reproducibility and system observability
-
-- ☁️ I’m passionate about building **fault-tolerant, scalable systems** and implementing **Infrastructure as Code (IaC)**. I enjoy working with tools that automate system provisioning, delivery, and monitoring pipelines.
-
-- 🛠 I’m particularly interested in:
-  - **Distributed Systems** and service orchestration
-  - **Cloud-native architectures** using **ECS**, **Lambda**, **Bedrock**, and event-driven patterns
-  - **Site Reliability Engineering (SRE)** practices like alerting, autoscaling, and system health monitoring
-  - **DevOps pipelines** for microservices at scale
-
-- 🧪 Actively experimenting with:
-  - **Go** for high-performance backend tools
-  - **Serverless architectures** for cost-efficient, elastic services
-  - **GitOps** and immutable deployment strategies
+I’m a **Software Engineer** at **Siemens** and a **Mathematical Engineering student** at **Yıldız Technical University**.  
+I love building things that live in the cloud — from scalable backend services to AI-powered automation.
 
 ---
 
-## 🛠️ Tech Stack
+## ☁️ About Me
+
+I’m passionate about **AI**, **backend systems**, and **cloud-native technologies**.  
+Most of my time goes into designing and coding services that are **fast**, **reliable**, and **easy to scale**.
+
+I enjoy turning ideas into production-ready systems using tools like **Python**, **TypeScript**, **AWS**, and **Terraform** — and learning something new every step of the way.
+
+---
+
+## 🛠️ Tech I Use
 
 **Languages**  
-`Python` `Go` `C/C++` `Bash` `SQL`
+`Python` `TypeScript` `Go` `C/C++` `SQL` `Bash`
 
-**Cloud & Services**  
-`AWS (EC2, ECS, Lambda, S3, IAM, CloudWatch, Bedrock)`  
-`Azure (Basic Experience)`
+**Cloud & DevOps**  
+`AWS` `Azure` `Terraform` `CloudFormation` `Docker` `CI/CD`
 
-**Infrastructure as Code & Containers**  
-`Terraform` `AWS CloudFormation` `Docker` `ECS` `ECR`
-
-**CI/CD & Automation**  
-`GitHub Actions` `GitLab CI` `Containerized Workflows` `Automated Infra Provisioning`
-
-**Monitoring & Observability**  
-`AWS CloudWatch` `Structured Logging` `Basic SRE Practices`
+**What I Like Working On**  
+`AI + Backend` `Automation` `System Design` `Serverless`  
 
 ---
 
-## 📌 Projects
+## 📫 Get in Touch
 
-> 🚧 Work in progress: I'm currently cleaning up and documenting personal projects around:
-> - Scalable backend services with FastAPI & Go
-> - Infrastructure automation with Terraform
-> - GitOps pipelines and serverless deployment prototypes
-
----
-
-## 📫 Contact
-
-- 📧 Email: [ademyildirimv@gmail.com](mailto:ademyildirimv@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ademyildirm](https://linkedin.com/in/ademyildirm)  
-- 💻 GitHub: [github.com/Tinkerera](https://github.com/Tinkerera)
-
----
-
-_Thanks for visiting — always happy to collaborate on infrastructure, backend, or DevOps-focused projects!_
+- 📧 [ademyildirimv@gmail.com](mailto:ademyildirimv@gmail.com)  
+- 💼 [linkedin.com/in/ademyildirm](https://linkedin.com/in/ademyildirm)  
+- 💻 [github.com/Tinkerera](https://github.com/Tinkerera)
