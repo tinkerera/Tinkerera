@@ -1,34 +1,40 @@
-# Hey there, I'm Adem 👋
+# Adem Yıldırım
+**Full Stack Software Engineer (Cloud & AI Solutions)**
 
-I’m a **Software Engineer** at **Siemens** and a **Mathematical Engineering student** at **Yıldız Technical University**.  
-I love building things that live in the cloud — from scalable backend services to AI-powered automation.
-
----
-
-## ☁️ About Me
-
-I’m passionate about **AI**, **backend systems**, and **cloud-native technologies**.  
-Most of my time goes into designing and coding services that are **fast**, **reliable**, and **easy to scale**.
-
-I enjoy turning ideas into production-ready systems using tools like **Python**, **TypeScript**, **AWS**, and **Terraform** — and learning something new every step of the way.
+Specializing in high-performance backend architecture and scalable cloud infrastructures to power enterprise AI applications. 
 
 ---
 
-## 🛠️ Tech I Use
+### 💻 Tech Stack
 
-**Languages**  
-`Python` `TypeScript` `Go` `C/C++` `SQL` `Bash`
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,ts,fastapi,nodejs,aws,azure,kubernetes,docker,terraform,gitlab,kafka,redis,postgres,linux&theme=dark" alt="Skills" />
+  </a>
+</p>
 
-**Cloud & DevOps**  
-`AWS` `Azure` `Terraform` `CloudFormation` `Docker` `CI/CD`
-
-**What I Like Working On**  
-`AI + Backend` `Automation` `System Design` `Serverless`  
+- **Backend & Systems:** Python, Go, Rust, TypeScript, FastAPI, Node.js
+- **Architecture & Data:** Apache Kafka, Redis, PostgreSQL, Event-Driven Microservices
+- **Cloud & Infrastructure:** AWS, Azure, Kubernetes (K8s), Terraform, Docker, GitLab CI/CD, Linux
+- **AI Solutions:** RAG Pipelines, LangChain, Vector DBs, LLM Integration
 
 ---
 
-## 📫 Get in Touch
+### 🚀 Current Focus
 
-- 📧 [ademyildirimv@gmail.com](mailto:ademyildirimv@gmail.com)  
-- 💼 [linkedin.com/in/ademyildirm](https://linkedin.com/in/ademyildirm)  
-- 💻 [github.com/Tinkerera](https://github.com/Tinkerera)
+- Engineering robust backend systems and multi-cloud infrastructures for enterprise AI solutions at **Siemens**.
+- Designing event-driven architectures with Kafka and optimizing database workflows for high-throughput traffic.
+- Exploring modern systems programming and building high-performance applications.
+
+---
+
+### 📫 Contact
+
+<p align="left">
+  <a href="https://linkedin.com/in/ademyildirm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ademyildirimv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
