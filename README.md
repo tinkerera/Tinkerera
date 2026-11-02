@@ -1,7 +1,7 @@
 # Adem Yıldırım
 **Full Stack Software Engineer (Cloud & AI Solutions)**
 
-Specializing in high-performance backend architecture and scalable cloud infrastructures to power enterprise AI applications. 
+Specializing in high-performance backend architecture, serverless computing, and scalable cloud infrastructures to power enterprise AI applications. 
 
 ---
 
@@ -14,17 +14,16 @@ Specializing in high-performance backend architecture and scalable cloud infrast
 </p>
 
 - **Backend & Systems:** Python, Go, Rust, TypeScript, FastAPI, Node.js
-- **Architecture & Data:** Apache Kafka, Redis, PostgreSQL, Event-Driven Microservices
-- **Cloud & Infrastructure:** AWS, Azure, Kubernetes (K8s), Terraform, Docker, GitLab CI/CD, Linux
+- **Architecture & Data:** Azure Service Bus, Apache Kafka, Redis, PostgreSQL, Event-Driven Microservices
+- **Cloud & Infrastructure:** AWS, Azure, Serverless, Kubernetes (K8s), Terraform, Docker, GitLab CI/CD, Linux
 - **AI Solutions:** RAG Pipelines, LangChain, Vector DBs, LLM Integration
 
 ---
 
 ### 🚀 Current Focus
 
-- Engineering robust backend systems and multi-cloud infrastructures for enterprise AI solutions at **Siemens**.
-- Designing event-driven architectures with Kafka and optimizing database workflows for high-throughput traffic.
-- Exploring modern systems programming and building high-performance applications.
+- Architecting scalable backend systems and robust cloud infrastructures for enterprise-grade applications.
+- Designing event-driven architectures and optimizing system performance for high-throughput environments.
 
 ---
 
